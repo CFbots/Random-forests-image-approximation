@@ -1,2 +1,1 @@
-# HW4
-AML_HW4
+# Random-forests-image-approximation
